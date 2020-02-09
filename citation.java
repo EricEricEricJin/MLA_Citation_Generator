@@ -1,5 +1,7 @@
 /*
 * MLA CITATION GENERATOR 
+* By: ericericericjin
+* Created: Feb.9.2020
 */
 import java.util.HashMap;
 import javax.swing.*;
